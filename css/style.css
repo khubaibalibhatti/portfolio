@@ -770,7 +770,7 @@ h3.profession{
     }
 
     .home .home-img{
-        display: none;
+        display: flex;
     }
 }
 
